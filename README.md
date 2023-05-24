@@ -1,4 +1,5 @@
-### 안녕하세요, 꾸준히 성장하는 iOS 개발자입니다. 👋
+### 안녕하세요, clean code에 관심이 많은 꾸준히 성장하는 iOS 개발자입니다.👋
+
 
 <a href="https://velog.io/@looloolalaa" target="_blank">Tech Bolg</a>
 
