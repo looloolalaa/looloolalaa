@@ -3,7 +3,9 @@
 [Tech Bolg](https://velog.io/@looloolalaa)
 
 
+
 <!--
+[![Velog Badge](http://img.shields.io/badge/-TechBolg-20c997?style=flat&link=본인주소)](본인주소)
 **looloolalaa/looloolalaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
