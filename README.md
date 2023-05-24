@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://velog.io/@looloolalaa" target="_blank">Tech Bolg</a>
+<a href="https://velog.io/@looloolalaa" target="_blank">My Tech Bolg</a>
 
 
 <!--
