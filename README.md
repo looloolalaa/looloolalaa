@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-[Tech Bolg](https://velog.io/@looloolalaa)
-
+<a href="https://velog.io/@looloolalaa" target="_blank">Tech Bolg</a>
 
 
 <!--
