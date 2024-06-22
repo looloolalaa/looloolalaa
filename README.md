@@ -3,6 +3,9 @@
 
 ### <a href="https://velog.io/@looloolalaa" target="_blank">Tech Bolg</a>
 
+### <a href="https://thread-wheel-810.notion.site/98c7ee0069e2484a92b151653bd4d995?pvs=4" target="_blank">Portfolio</a>
+
+
 
 <!--
 [![Velog Badge](http://img.shields.io/badge/-TechBolg-20c997?style=flat&link=본인주소)](본인주소)
