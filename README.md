@@ -1,7 +1,6 @@
 ### 안녕하세요, clean code에 관심이 많은, 꾸준히 성장하는 iOS 개발자입니다.👋
 
-
-### <a href="https://velog.io/@looloolalaa" target="_blank">Tech Bolg</a>
+### <a href="https://velog.io/@looloolalaa/series" target="_blank">Tech Bolg</a>
 
 ### <a href="https://thread-wheel-810.notion.site/98c7ee0069e2484a92b151653bd4d995?pvs=4" target="_blank">Portfolio</a>
 
