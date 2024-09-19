@@ -2,8 +2,7 @@
 
 ### <a href="https://velog.io/@looloolalaa/series" target="_blank">Tech Bolg</a>
 
-### <a href="https://thread-wheel-810.notion.site/98c7ee0069e2484a92b151653bd4d995?pvs=4" target="_blank">Portfolio</a>
-
+### <a href="https://thread-wheel-810.notion.site/106380a2290780d99c65ded31f73d697?pvs=4" target="_blank">Portfolio</a>
 
 
 <!--
